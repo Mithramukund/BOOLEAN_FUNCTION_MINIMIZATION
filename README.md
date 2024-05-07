@@ -44,8 +44,8 @@ endmodule
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 Developed by:
-Abinaya A
-RegisterNumber:212223040003
+MITHRA MUKUNDAA
+RegisterNumber:212222100026
 
 
 **Logic Diagram**
